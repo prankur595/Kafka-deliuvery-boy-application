@@ -1,1 +1,7 @@
-sdf  dasdc
+download Delivery_Boy.jar and End_User.jar
+run them on console using:
+java -jar Delivery_Boy.jar
+java -jar End_User.jar
+
+Hit on postman: http://localhost:8080/location/update/100000
+This will send 100000 locations to the topic. Change this value to whatever you like.
