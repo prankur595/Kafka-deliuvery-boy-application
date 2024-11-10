@@ -1,5 +1,5 @@
 
-Kafka server running
+Kafka server running on 9092 port
 Kafka Zookeeper running
 
 java 17+ installed and available
